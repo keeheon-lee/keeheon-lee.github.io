@@ -2,4 +2,4 @@ I am a fourth-year Ph.D. student in the Department of Government at Georgetown U
 
 My dissertation project examines firm-level responses to the nexus of public and private regulations, using both quantitative and qualitative methods and Indonesia's palm oil industry as the main case study. 
 
-I hold a BA in Political Science from University of California, Los Angeles (UCLA) and an MA (en route to PhD) in Government from Georgetown University.
+I hold a B.A. degree in Political Science from University of California, Los Angeles (UCLA) and an M.A. degree (en route to PhD) in Government from Georgetown University.
