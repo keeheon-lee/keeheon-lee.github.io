@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "https://bsky.app/profile/lkeeheon.bsky.social"
+  bluesky          : "lkeeheon.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/keeheon-lee-6995a31b9/"
+  linkedin         : "keeheon-lee-6995a31b9/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
