@@ -21,7 +21,7 @@ repository               : "https://keeheon-lee.github.io"
 author:
   # Biographic information
   name             : "Keeheon Lee"
-  avatar           : "images/keeheon-lee-passport-photo.jpg"
+  avatar           : "keeheon-lee-passport-photo.jpg"
   pronouns         : # pronouns  
   bio              : "Ph.D. Student in Government"
   location         : "Washington, DC"
