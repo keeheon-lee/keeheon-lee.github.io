@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Keeheon Lee"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
