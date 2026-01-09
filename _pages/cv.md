@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Click [here](https://keeheon-lee.github.io/files/KL_CV.pdf) for my latest CV (November 2025).
+Click [here](https://keeheon-lee.github.io/files/KL_CV.pdf) for my latest CV.
 
 Contact
 ========
